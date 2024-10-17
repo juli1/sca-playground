@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "minimatch": "^3.0.4"
+    "minimatch": "=3.0.4"
   },
   "devDependencies": {
     "rimraf": "^2.6.2"

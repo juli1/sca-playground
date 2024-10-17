@@ -1,0 +1,21 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "a new cli tool",
+  "main": "code.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "minimatch": "^3.0.4"
+  },
+  "devDependencies": {
+    "rimraf": "^2.6.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "my-node-cli": "./index.js"
+  }
+}
